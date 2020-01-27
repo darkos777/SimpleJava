@@ -1,2 +1,2 @@
 # SimpleJava
-#Simple Java programme for Jenkins running
+#Simple Java programme for testing Jenkins
